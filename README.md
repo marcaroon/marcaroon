@@ -68,8 +68,8 @@ BSI Training Academy · Issued May 2026
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcaroon&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Muammar Qois Al Qorni GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcaroon&layout=compact&hide_border=true&langs_count=6" alt="Muammar Qois Al Qorni top languages" />
+  <img height="165" src="./profile/stats.svg" alt="Muammar Qois Al Qorni GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Muammar Qois Al Qorni top languages" />
 </div>
 
 ## Contact
