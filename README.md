@@ -50,16 +50,6 @@ Assessed warehouse and sales distribution processes, identifying gaps in stock c
 **Auditor · Feb 2026**  
 Assessed HR, IT, Finance, and Accounting processes to identify operational gaps and define practical digitalization and system improvement requirements.
 
-## Professional Background
-
-### PT. Total Quality Indonesia
-**System Developer (IT Consultant) · Sep 2025 — Present**  
-Worked with dozens of clients to improve business processes and support digital transformation through system development and technology solutions.
-
-### Telkomsel
-**Fullstack Web Developer Intern · Jun 2024 — Sep 2024**  
-Developed a full-stack internal social platform for **40+ Telkomsel interns**, providing a centralized space for activities, information sharing, and engagement.
-
 ## Certification
 
 **CQI & IRCA ISO/IEC 27001:2022 Lead Auditor**  
